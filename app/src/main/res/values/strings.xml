@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW-2</string>
+    <string name="get_started">Get Started</string>
+    <string name="show_APIResults">Show Results</string>
+    <string name="high_point_beer">High-Point Beer?</string>
+    <string name="Brew">Brew</string>
+    <string name="to">to</string>
+    <string name="search_beer_name">Search by beer name</string>
+    <string name="month_year">mm/yyyy</string>
+</resources>
